@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'builder'
+gem 'coderay', '~> 1.0.9'
+gem 'kramdown', '~> 0.13.2'
+gem 'mime-types', '~> 1.16'
+gem 'nanoc', '~> 3.4.3'
+gem 'nokogiri', '~> 1.4.4'
+gem 'pygments.rb'
+gem 'yajl-ruby', '~> 0.8.2'
+gem 'guard', '~> 2.0.5'
+gem 'guard-nanoc'
