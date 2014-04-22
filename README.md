@@ -2,6 +2,8 @@
 
 This is a documentation resource built with [nanoc][nanoc].
 
+Orginally forked from the excellent [GitHub Documentation](https://github.com/github/developer.github.com). Thanks!
+
 ## Setup
 
 Ruby 1.9 is required to build the site.
