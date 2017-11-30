@@ -1,3 +1,7 @@
+# This project is no longer being maintained
+
+Please don't use it. Thank you.
+
 # Embedded Documentation
 
 This is a documentation resource built with [nanoc][nanoc].
